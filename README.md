@@ -14,11 +14,8 @@ This project implements a complete Automatic Fingerprint Identification System (
 - [Methodology](#methodology)
 - [Results](#results)
 - [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Limitations and Future Work](#limitations-and-future-work)
-- [Tech Stack](#tech-stack)
-- [License](#license)
+
 
 ---
 
@@ -95,4 +92,4 @@ This project is released under the [MIT License](LICENSE). It was developed for 
 
 ## Author
 
-**Fariha Khandaker Moon** — [GitHub](https://github.com/farihamoon))
+**Fariha Khandaker Moon** — [GitHub](https://github.com/farihamoon)
