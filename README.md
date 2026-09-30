@@ -88,7 +88,7 @@ The self-match returns a perfect score, and the cross-subject pairs fall below t
 - **Threshold selection.** The 0.99 threshold was chosen manually; it should be tuned on a labelled dataset.
 - **Next steps:** evaluate on public benchmarks such as FVC2002/FVC2004 or SOCOFing, add orientation-field-based Gabor enhancement, and report genuine EER on real scores.
 
-This project is released under the [MIT License](LICENSE). It was developed for academic purposes.
+
 
 ## Author
 
